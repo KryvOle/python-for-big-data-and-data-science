@@ -1,0 +1,1 @@
+print("Kryvosheia Oleksandr, KN_Group_6")
